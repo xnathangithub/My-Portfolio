@@ -40,7 +40,7 @@ https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 Demo Images:
 http://unsplash.com
 
-DESIGNED & DEVELOPED by FREEHTML5.co
+DESIGNED & DEVELOPED by FREEHTML5.co:
 
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
